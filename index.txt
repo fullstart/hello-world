@@ -3,3 +3,4 @@ This is index file of some fictious project
 Contents
 part 1
 part 2
+part 3
