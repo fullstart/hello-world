@@ -1,7 +1,7 @@
 # Learning Git repo
 
 ## To practice Git
-Git is not very intuitive
+Git is hard to learn and is not very intuitive
 
 ## Hope time spent on learning git will pay back
 Managing development should be easier with git knowledge
