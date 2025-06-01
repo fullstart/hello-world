@@ -1,3 +1,5 @@
 This is code for section 2
 Simulating diverging dev history
 Modify code for section 2 on github, to try rebasing with merge conflict
+Another modification to try rebasing with merge conflict
+Will keep both github and local data
